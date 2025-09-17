@@ -51,9 +51,10 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0e76a8?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="mailto:zuriatahir18@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zuriatahir18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ </a>
+
 </p>
 
 ---
