@@ -17,7 +17,8 @@
 ### 🛠 **Tech Toolbox**
 #### 🧰 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode" />
+
 </p>
 
 #### 📚 Libraries & Frameworks  
