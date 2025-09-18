@@ -6,11 +6,11 @@
 
 ---
 
-### 👩‍🎓 **Who Am I?**
-💡 **Data Science Student** passionate about turning data into powerful insights  
-📊 Loves **Dashboards, Machine Learning, and Visualization**  
-🤖 Exploring **AI, NLP, and Data Engineering**  
-🌱 Constantly learning & experimenting with new tools  
+### 👩‍💻 **About Me**
+💡 Passionate about transforming data into meaningful insights  
+📊 Skilled in **Data Analysis, Machine Learning, and Visualization**  
+🤖 Enthusiastic about **AI, NLP, and Data Engineering**  
+🚀 Love building projects that create real-world impact  
 
 ---
 
