@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/zuria-tahir-9b5078319">
     <img src="https://img.shields.io/badge/LinkedIn-ZuriaTahir-blue?style=for-the-badge&logo=linkedin" />
   </a>
- | <a href="https://zuriatahir-18.github.io/portfolio/" target="_blank">
+ <a href="https://zuriatahir-18.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-0e76a8?style=for-the-badge&logo=google-chrome" />
   </a>
 
