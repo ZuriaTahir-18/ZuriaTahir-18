@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there! I'm <span style="color:#4CAF50">Zuria Tahir</span> 👩‍💻</h1>
+<h1 align="center">✨ Hey there! I'm <span>Zuria Tahir</span> 👩‍💻</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZuriaTahir-18&label=Profile+Views&color=blue&style=plastic" alt="Profile Views" />
@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/zuria-tahir-9b5078319">
     <img src="https://img.shields.io/badge/LinkedIn-ZuriaTahir-blue?style=for-the-badge&logo=linkedin" />
   </a>
- <a href="https://zuriatahir-18.github.io/portfolio/">
+ <a href="https://zuriatahir-18.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Now-10b981?style=for-the-badge&logo=google-chrome" />
 </a>
 
