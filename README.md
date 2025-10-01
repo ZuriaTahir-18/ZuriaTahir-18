@@ -48,9 +48,10 @@
   <a href="https://www.linkedin.com/in/zuria-tahir-9b5078319">
     <img src="https://img.shields.io/badge/LinkedIn-ZuriaTahir-blue?style=for-the-badge&logo=linkedin" />
   </a>
- <a href="https://zuriatahir-18.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-0e76a8?style=for-the-badge&logo=google-chrome" />
-  </a>
+ <a href="https://zuriatahir-18.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Now-10b981?style=for-the-badge&logo=google-chrome" />
+</a>
+
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zuriatahir18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
