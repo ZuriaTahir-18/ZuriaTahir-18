@@ -15,11 +15,12 @@
 ---
 
 ### 🛠️ **Tech Toolbox**
-#### 🧰 Languages & Tools
+####3 🧰 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode,n8n,supabase" />
   <img src="https://img.shields.io/badge/Make.com-4B0082?style=for-the-badge&logo=make&logoColor=white" />
 </p>
+
 ### 📚 Libraries & Frameworks  
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
