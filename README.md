@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ **Tech Toolbox**
-#### 🧰 Languages & Tools
+### 🧰 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode,n8n,supabase,make.com" />
 </p>
