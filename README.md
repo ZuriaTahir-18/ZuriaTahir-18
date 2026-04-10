@@ -6,21 +6,19 @@
 
 ---
 
-### 👩‍💻 **About Me**
-💡 Passionate about transforming data into meaningful insights  
-📊 Skilled in **Data Analysis, Machine Learning, and Visualization**  
-🤖 Enthusiastic about **AI, NLP, and Data Engineering**  
-🚀 Love building projects that create real-world impact  
+### 🌅 **About Me**
+💡 Passionate about building **Intelligent Automation Systems** that scale businesses.
+📊 Expert in **Agentic Workflows, RAG (Retrieval-Augmented Generation), and LLM Integrations.**
+🎙️ Specialist in **Multimodal AI**, handling Text, Voice (Speech-to-Text), and Vision processing.
+🚀 Experienced in automating complex business tasks for platforms like **Shopify & WhatsApp.**
 
 ---
 
-### 🛠 **Tech Toolbox**
-#### 🧰 Languages & Tools  
+### 🛠️ **Tech Toolbox**
+#### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode,n8n,supabase" />
 </p>
-
 #### 📚 Libraries & Frameworks  
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
