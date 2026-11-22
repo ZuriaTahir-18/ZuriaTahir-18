@@ -24,23 +24,6 @@
 
 ---
 
-### ⭐ Featured work
-
-| Project | What it does | Built with |
-|---|---|---|
-| **[AI Automation Platform (IdeoLab)](https://github.com/ZuriaTahir-18/AI-Automation-Platform-Engineering)** | 11 installable workflow templates, 58 design skills for the platform's AI site builder, its marketing website, and a nightly SEO engine that publishes 2 articles per blog per night to 2 company blogs (109 live posts by late October) | Node.js, Next.js, TypeScript, OpenAI API, DataForSEO, GitHub Actions, Vercel |
-| **[GoHighLevel AI Lead Nurture System](https://github.com/ZuriaTahir-18/GoHighLevel-AI-Lead-Nurture-System)** | A complete lead follow-up system: 5 workflows, a 35-email nurture series, call booking and no-show follow-ups, plus an AI email agent and a website chatbot sharing one knowledge base | GoHighLevel (Workflows, Conversation AI), GoHighLevel API, Python |
-| **Competitor Price Intelligence Platform** <br><sub>private client work</sub> | Scrapes 150+ competitor stores daily into a PostgreSQL price history of about 6 million listings, with a Next.js dashboard and an MCP endpoint that lets AI assistants query the data | Python, Playwright, PostgreSQL, Next.js, MCP, Railway, Vercel |
-| **[AI WhatsApp Assistant](https://github.com/ZuriaTahir-18/ai-whatsapp-assistant-n8n)** | A WhatsApp assistant that understands text, voice notes and images, with RAG over a Supabase vector store | n8n, OpenAI (Vision, Whisper), Supabase |
-| **[ShopTalk AI Call Handler](https://github.com/ZuriaTahir-18/ShopTalk-AI-Call-Handler)** | Turns finished AI voice calls into call summaries and sales leads, then routes them to Slack and Google Sheets | n8n, Vapi, OpenAI, Slack, Google Sheets |
-| **[AI E-commerce Price Monitor](https://github.com/ZuriaTahir-18/AI-Ecom-Price-Monitor)** | Tracks live product prices, logs the history, and uses OpenAI agents to send Slack alerts only for high-value deals | n8n, OpenAI, Google Sheets, Slack |
-
-**More automations:** [Autonomous AI Lead Engagement Engine](https://github.com/ZuriaTahir-18/Autonomous-AI-Lead-Engagement-Engine) · [TikTok Airtable Scheduler](https://github.com/ZuriaTahir-18/tiktok-airtable-scheduler) · [Calendly to ClickUp Sync](https://github.com/ZuriaTahir-18/calendly-to-clickup-automation-workflow) · [PageSpeed Insights Monitor](https://github.com/ZuriaTahir-18/pagespeed-insights-monitor)
-
-**AI & ML:** [Wikipedia RAG Assistant](https://github.com/ZuriaTahir-18/Wikipedia-rag-assistant) · [LLM Financial Data Chatbot](https://github.com/ZuriaTahir-18/LLM_chatbot) · [Fuzzy CNN Ensemble for COVID-19 Detection](https://github.com/ZuriaTahir-18/Fuzzy-CNN-Ensemble-COVID-Detection)
-
----
-
 ### 🛠️ Tech toolbox
 
 **AI & Agents**
